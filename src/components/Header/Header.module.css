@@ -1,0 +1,22 @@
+.header{
+    height:5.5rem;  
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    padding: 10rem 2.5rem;
+    overflow:hidden;
+    position: relative;
+
+    }
+    
+    .headerImage {
+        background-color: aliceblue;
+        background: url(../../assets/images/header.jpg) center;
+        background-size: 110%;
+        position: absolute;
+        top:-5%;
+        bottom:-5%;
+        left:-5%;
+        right:-5%;
+        z-index:-1;
+    }

@@ -1,0 +1,15 @@
+.hotel{
+    border: 1px solid #dfdede;
+    margin-bottom: 1.5rem;
+    background-color: #d1cccc;
+}
+.title{
+    font-weight: bold;
+    color:#9d4a4a;
+}
+.description {
+    color: grey;
+    margin-top: 1rem;
+    font-size: 0.88rem;
+    margin-bottom: 0;
+  }
